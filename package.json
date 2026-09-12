@@ -1,0 +1,14 @@
+{
+  "name": "html2link",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cole HTML, salve e gere links curtos públicos.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
